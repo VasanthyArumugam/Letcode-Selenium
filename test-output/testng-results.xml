@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-22T12:39:33 EDT" name="Suite" finished-at="2021-10-22T12:39:51 EDT" duration-ms="17767">
+    <groups>
+    </groups>
+    <test started-at="2021-10-22T12:39:33 EDT" name="Test" finished-at="2021-10-22T12:39:51 EDT" duration-ms="17767">
+      <class name="Tests.TC00_UiElementValidationTest">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:Tests.TC00_UiElementValidationTest@40ef3420]" started-at="2021-10-22T12:39:33 EDT" name="startBrowser" finished-at="2021-10-22T12:39:39 EDT" duration-ms="5855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="uiHeadervalidation()[pri:1, instance:Tests.TC00_UiElementValidationTest@40ef3420]" started-at="2021-10-22T12:39:39 EDT" name="uiHeadervalidation" finished-at="2021-10-22T12:39:44 EDT" duration-ms="4680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiHeadervalidation -->
+        <test-method signature="footerValidation()[pri:2, instance:Tests.TC00_UiElementValidationTest@40ef3420]" started-at="2021-10-22T12:39:44 EDT" name="footerValidation" finished-at="2021-10-22T12:39:51 EDT" duration-ms="7187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidation -->
+      </class> <!-- Tests.TC00_UiElementValidationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
